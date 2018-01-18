@@ -1,2 +1,3 @@
 name: IMSA Vending Machines
 theme: jekyll-theme-cayman
+markdown: kramdown
